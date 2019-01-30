@@ -3,8 +3,8 @@ It uses a Mongo DB hosted on mLab.  If you plan on forking create a free mLab ac
 *repository* file.  I was originally following this [blog post](https://medium.com/@gautamprajapati/writing-a-simple-e-commerce-website-api-in-go-programming-language-9f671324b4dd).
 
 **Requirements**
--Golang installed
--mLab Account 
+1. Golang installed
+2. mLab Account 
 
 **Initializing**
 Run *go run main.go* and navigate to *http://localhost:8000/*
